@@ -2,7 +2,7 @@
   "posts": [
 {
   "id": 1,
-  "imagen":"https://images.adsttc.com/media/images/5f90/e509/63c0/1779/0100/010e/large_jpg/3.jpg"
+  "imagen":"https://images.adsttc.com/media/images/5f90/e509/63c0/1779/0100/010e/large_jpg/3.jpg",
   "tipo": "casa",
   "dimension": "200",
   "ubicacion": "Ambato-Ecuador",
@@ -13,7 +13,7 @@
 },
 {
   "id": 2,
-  "imagen":"https://images.adsttc.com/media/images/55f9/87d7/9fd5/2225/0c00/0005/newsletter/mc_280611_01.jpg"
+  "imagen":"https://images.adsttc.com/media/images/55f9/87d7/9fd5/2225/0c00/0005/newsletter/mc_280611_01.jpg",
   "tipo": "departamento",
   "dimension": "100",
   "ubicacion": "Ambato-Ecuador",
