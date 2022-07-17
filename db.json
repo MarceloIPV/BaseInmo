@@ -32,6 +32,17 @@
   "baños": "3",
   "precio":"75000",
   "garaje": "3"
+  },
+  {
+  "id": 4,
+  "imagen":"https://images.adsttc.com/media/images/5f90/e509/63c0/1779/0100/010e/large_jpg/3.jpg",
+  "tipo": "Terreno",
+  "dimension": "300",
+  "ubicacion": "Baños-Ecuador",
+  "cuartos": "-",
+  "baños": "-",
+  "precio":"15000",
+  "garaje": "-"
   }
 ],
   "comments": [
