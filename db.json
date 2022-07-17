@@ -6,8 +6,8 @@
   "tipo": "casa",
   "dimension": "200",
   "ubicacion": "Ambato-Ecuador",
-  "cuartos": "2",
-  "baños": "1",
+  "cuartos": "3",
+  "baños": "1.5",
   "precio":"45000",
   "garaje": "2"
   },
@@ -21,6 +21,17 @@
   "baños": "2",
   "precio":"25000",
   "garaje": "1"
+  },
+  {
+  "id": 3,
+  "imagen":"https://images.adsttc.com/media/images/5f90/e509/63c0/1779/0100/010e/large_jpg/3.jpg",
+  "tipo": "casa",
+  "dimension": "240",
+  "ubicacion": "Quito-Ecuador",
+  "cuartos": "4",
+  "baños": "3",
+  "precio":"75000",
+  "garaje": "3"
   }
 ],
   "comments": [
