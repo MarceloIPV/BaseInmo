@@ -1,0 +1,24 @@
+[
+{
+  "id": 1,
+  "imagen":"https://images.adsttc.com/media/images/5f90/e509/63c0/1779/0100/010e/large_jpg/3.jpg"
+  "tipo": "casa",
+  "dimension": "200",
+  "ubicacion": "Ambato-Ecuador",
+  "cuartos": "2",
+  "baños": "1",
+  "precio":"45000",
+  "garaje": "2",
+},
+{
+  "id": 2,
+  "imagen":"https://images.adsttc.com/media/images/5f90/e509/63c0/1779/0100/010e/large_jpg/3.jpg"
+  "tipo": "departamento",
+  "dimension": "100",
+  "ubicacion": "Ambato-Ecuador",
+  "cuartos": "3",
+  "baños": "2",
+  "precio":"25000",
+  "garaje": "1",
+}
+]
