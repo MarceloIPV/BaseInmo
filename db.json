@@ -1,9 +1,28 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
+{
+  "id": 1,
+  "imagen":"https://images.adsttc.com/media/images/5f90/e509/63c0/1779/0100/010e/large_jpg/3.jpg"
+  "tipo": "casa",
+  "dimension": "200",
+  "ubicacion": "Ambato-Ecuador",
+  "cuartos": "2",
+  "baños": "1",
+  "precio":"45000",
+  "garaje": "2",
+},
+{
+  "id": 2,
+  "imagen":"https://images.adsttc.com/media/images/55f9/87d7/9fd5/2225/0c00/0005/newsletter/mc_280611_01.jpg"
+  "tipo": "departamento",
+  "dimension": "100",
+  "ubicacion": "Ambato-Ecuador",
+  "cuartos": "3",
+  "baños": "2",
+  "precio":"25000",
+  "garaje": "1",
+}
+],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
