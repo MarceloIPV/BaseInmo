@@ -2,7 +2,7 @@
   "posts": [
   {
   "id": 1,
-  "imagen":"https://drive.google.com/file/d/1tOu3SuD8u3m6KCDAEBU5JkjnsvNm_D2Z/preview",
+  "imagen":"https://i.ibb.co/FW2snnm/1.jpg",
   "tipo": "Casa",
   "dimension": "200",
   "ubicacion": "Ambato-Ecuador",
@@ -13,7 +13,7 @@
   },
   {
   "id": 2,
-  "imagen":"https://drive.google.com/file/d/1tOu3SuD8u3m6KCDAEBU5JkjnsvNm_D2Z/view?usp=sharing",
+  "imagen":"https://i.ibb.co/Wvh2ySG/2.jpg",
   "tipo": "Casa",
   "dimension": "100",
   "ubicacion": "Ambato-Ecuador",
@@ -24,7 +24,7 @@
   },
   {
   "id": 3,
-  "imagen":"https://drive.google.com/file/d/11qUX6cfDZL-jSjrfo9fh_V3PW6ocZdcT/view?usp=sharing",
+  "imagen":"https://i.ibb.co/GnhMmvJ/3.jpg",
   "tipo": "Casa",
   "dimension": "240",
   "ubicacion": "Quito-Ecuador",
@@ -35,7 +35,7 @@
   },
   {
   "id": 4,
-  "imagen":"https://drive.google.com/file/d/1WgzSl7Et5FegAFd0csYlGMXPJPOwdWIo/view?usp=sharing",
+  "imagen":"https://i.ibb.co/hWzk030/4.jpg",
   "tipo": "Casa",
   "dimension": "300",
   "ubicacion": "Baños-Ecuador",
@@ -46,7 +46,7 @@
   },
   {
   "id": 5,
-  "imagen":"https://drive.google.com/file/d/1SbaWfboN5avxbmCOsehfYAUk_tVDiup_/view?usp=sharing",
+  "imagen":"https://i.ibb.co/f12MGV5/5.jpg",
   "tipo": "Departamento",
   "dimension": "100",
   "ubicacion": "Ambato-Ecuador",
@@ -57,7 +57,7 @@
   },
   {
   "id": 6,
-  "imagen":"https://drive.google.com/file/d/19syXcJHB5DNmomWCZiAYgi9c5zXXm4h1/view?usp=sharing",
+  "imagen":"https://i.ibb.co/ygRVpLw/6.jpg",
   "tipo": "Departamento",
   "dimension": "95",
   "ubicacion": "Quito-Ecuador",
@@ -68,7 +68,7 @@
   },
   {
   "id": 7,
-  "imagen":"https://drive.google.com/file/d/1PK6VwM88OBjd0rP7Ypy6vEeMQjmK17j_/view?usp=sharing",
+  "imagen":"https://i.ibb.co/3Mw1Wmb/7.jpg",
   "tipo": "Terreno",
   "dimension": "300",
   "ubicacion": "Baños-Ecuador",
@@ -79,7 +79,7 @@
   },
   {
   "id": 8,
-  "imagen":"https://drive.google.com/file/d/1U-sS1qrvB1UQbHEWW5aSBJRa_zfTNAly/view?usp=sharing",
+  "imagen":"https://i.ibb.co/dtpQXfh/8.jpg",
   "tipo": "Terreno",
   "dimension": "200",
   "ubicacion": "Baños-Ecuador",
