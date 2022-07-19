@@ -2,8 +2,8 @@
   "posts": [
   {
   "id": 1,
-  "imagen":"https://images.adsttc.com/media/images/5f90/e509/63c0/1779/0100/010e/large_jpg/3.jpg",
-  "tipo": "casa",
+  "imagen":"https://drive.google.com/file/d/1UmhZtm5RG7oz-UyuWkZc-5eRq1YQrqP9/view",
+  "tipo": "Casa",
   "dimension": "200",
   "ubicacion": "Ambato-Ecuador",
   "cuartos": "3",
@@ -13,8 +13,8 @@
   },
   {
   "id": 2,
-  "imagen":"https://images.adsttc.com/media/images/55f9/87d7/9fd5/2225/0c00/0005/newsletter/mc_280611_01.jpg",
-  "tipo": "departamento",
+  "imagen":"https://drive.google.com/file/d/1tOu3SuD8u3m6KCDAEBU5JkjnsvNm_D2Z/view?usp=sharing",
+  "tipo": "Casa",
   "dimension": "100",
   "ubicacion": "Ambato-Ecuador",
   "cuartos": "3",
@@ -24,8 +24,8 @@
   },
   {
   "id": 3,
-  "imagen":"https://images.adsttc.com/media/images/5f90/e509/63c0/1779/0100/010e/large_jpg/3.jpg",
-  "tipo": "casa",
+  "imagen":"https://drive.google.com/file/d/11qUX6cfDZL-jSjrfo9fh_V3PW6ocZdcT/view?usp=sharing",
+  "tipo": "Casa",
   "dimension": "240",
   "ubicacion": "Quito-Ecuador",
   "cuartos": "4",
@@ -35,9 +35,53 @@
   },
   {
   "id": 4,
-  "imagen":"https://images.adsttc.com/media/images/5f90/e509/63c0/1779/0100/010e/large_jpg/3.jpg",
+  "imagen":"https://drive.google.com/file/d/1WgzSl7Et5FegAFd0csYlGMXPJPOwdWIo/view?usp=sharing",
+  "tipo": "Casa",
+  "dimension": "300",
+  "ubicacion": "Baños-Ecuador",
+  "cuartos": "4",
+  "baños": "3",
+  "precio":"75000",
+  "garaje": "3"
+  },
+  {
+  "id": 5,
+  "imagen":"https://drive.google.com/file/d/1SbaWfboN5avxbmCOsehfYAUk_tVDiup_/view?usp=sharing",
+  "tipo": "Departamento",
+  "dimension": "100",
+  "ubicacion": "Ambato-Ecuador",
+  "cuartos": "4",
+  "baños": "2",
+  "precio":"55000",
+  "garaje": "2"
+  },
+  {
+  "id": 6,
+  "imagen":"https://drive.google.com/file/d/19syXcJHB5DNmomWCZiAYgi9c5zXXm4h1/view?usp=sharing",
+  "tipo": "Departamento",
+  "dimension": "95",
+  "ubicacion": "Quito-Ecuador",
+  "cuartos": "2",
+  "baños": "1.5",
+  "precio":"35000",
+  "garaje": "1"
+  },
+  {
+  "id": 7,
+  "imagen":"https://drive.google.com/file/d/1PK6VwM88OBjd0rP7Ypy6vEeMQjmK17j_/view?usp=sharing",
   "tipo": "Terreno",
   "dimension": "300",
+  "ubicacion": "Baños-Ecuador",
+  "cuartos": "-",
+  "baños": "-",
+  "precio":"34000",
+  "garaje": "-"
+  },
+  {
+  "id": 8,
+  "imagen":"https://drive.google.com/file/d/1U-sS1qrvB1UQbHEWW5aSBJRa_zfTNAly/view?usp=sharing",
+  "tipo": "Terreno",
+  "dimension": "200",
   "ubicacion": "Baños-Ecuador",
   "cuartos": "-",
   "baños": "-",
